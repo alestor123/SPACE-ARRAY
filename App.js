@@ -1,0 +1,1 @@
+module.exports = value => value.split(' ').filter(item => !''.includes(item))
